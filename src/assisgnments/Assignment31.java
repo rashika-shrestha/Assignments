@@ -11,7 +11,6 @@ public class Assignment31 {
          1234 (123*10+4)
          12345 (1234*10+5)
      */
-
     public static void main(String[] args) {
         Scanner times = new Scanner(System.in);
         System.out.println("Enter the number of pattern you want to display: ");
@@ -24,6 +23,8 @@ public class Assignment31 {
             System.out.println(a + " ");
         }
         System.out.println("Exist for program.");
+        System.out.println("++++++++++++++++++++++++++");
+
     }
 
 }
