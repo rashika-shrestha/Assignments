@@ -18,7 +18,7 @@ public class Assignment5 {
     }
 
     public static void areaOfCircle(Scanner area) {
-     //Area of Circle (PiRR)
+     //Area of Circle (Pi*R)
         System.out.println("Enter value of Radius: ");
         double Radius = area.nextDouble();
         double Pi = 3.14, AreaCircle;
