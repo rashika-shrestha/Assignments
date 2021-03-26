@@ -1,6 +1,6 @@
 package notesAndPractice;
 
-public class day3_DataType {
+public class Day3_DataType {
 /*
 Data Types are
 1. bytes 2. short 3. int 4. long 5. float 6. double 7. char 8. boolean  */

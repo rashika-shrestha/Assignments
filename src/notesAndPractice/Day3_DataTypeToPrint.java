@@ -7,7 +7,7 @@ Data Types are
 
 
 
-public class day3_DataTypeToPrint {
+public class Day3_DataTypeToPrint {
     public static void main(String[] args) {
         System.out.println("=====byte=====");
         System.out.println(Byte.MAX_VALUE);

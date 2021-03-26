@@ -1,6 +1,6 @@
 package notesAndPractice;
 
-public class day10_Loop {
+public class Day10_Loop {
   /*
 
     what is Fibonacci series in JAVA?

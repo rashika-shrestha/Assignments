@@ -2,7 +2,7 @@ package notesAndPractice;
 
 import java.util.Scanner;
 
-public class day7_Operators {
+public class Day7_Operators {
     public static void main(String[] args) {
         Scanner sample = new Scanner(System.in);
         sampleArtOperator(sample);

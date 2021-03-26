@@ -91,7 +91,7 @@ b.conventions - this is something good practice to follow but will not give erro
 
 
 
-public class day2_Variable_Keywords_Identifier_Comments_WhiteSpace {
+public class Day2_Variable_Keywords_Identifier_Comments_WhiteSpace {
 
     public static void main(String[] args) {
 

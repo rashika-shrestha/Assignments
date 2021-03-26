@@ -1,6 +1,6 @@
 package notesAndPractice;
 
-public class day9_SwitchCase {
+public class Day9_SwitchCase {
 
 /*
  Switch Case is use when there are number of different task to do and have number of options.

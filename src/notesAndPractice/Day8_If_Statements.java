@@ -2,7 +2,7 @@ package notesAndPractice;
 
 import java.util.Scanner;
 
-public class day8_If_Statements {
+public class Day8_If_Statements {
 /*
     if is a conditional statement that we can use for logical conditions like
     1. less than: a > b

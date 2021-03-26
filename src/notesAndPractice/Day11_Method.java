@@ -1,6 +1,6 @@
 package notesAndPractice;
 
-public class day11_Method {
+public class Day11_Method {
 
 
 /*
